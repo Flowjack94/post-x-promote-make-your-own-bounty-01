@@ -1,8 +1,10 @@
 # Promote make.fun's make-your-own-bounty post on X
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-7C3AED)](https://make.fun/bounty/post-x-promote-make-your-own-bounty-01)
-[![make.fun](https://img.shields.io/badge/make.fun-live-22c55e)](https://make.fun)
-[![make your own bounty](https://img.shields.io/badge/make%20your%20own%20bounty-%40makefunai-1D9BF0)](https://make.fun/sponsor/new)
+![make.fun bounty](https://make.fun/badge/post-x-promote-make-your-own-bounty-01.svg)
+![make.fun rank](https://make.fun/badge/post-x-promote-make-your-own-bounty-01/Flowjack94/post-x-promote-make-your-own-bounty-01/rank.svg)
+![make.fun reward](https://make.fun/badge/post-x-promote-make-your-own-bounty-01/Flowjack94/post-x-promote-make-your-own-bounty-01/reward.svg)
+
+https://make.fun/bounty/post-x-promote-make-your-own-bounty-01
 
 Entry for the [make.fun bounty](https://make.fun/bounty/post-x-promote-make-your-own-bounty-01)
 **"Promote make.fun's make-your-own-bounty post on X"**
@@ -10,7 +12,7 @@ Entry for the [make.fun bounty](https://make.fun/bounty/post-x-promote-make-your
 
 ## The post
 
-One post on X from the public account **[@flowjack94](https://x.com/flowjack94)**,
+One post on X from the public account **[@fasani94](https://x.com/fasani94)**,
 quoting make.fun's post
 [https://x.com/makefunai/status/2124915864336236646](https://x.com/makefunai/status/2124915864336236646),
 with a photo of its own attached. Its text carries the line
@@ -39,9 +41,8 @@ node main.ts
 # OUTPUT_DIR=./output node main.ts
 ```
 
-`POST.json` currently holds a `PENDING` placeholder: the X post is made from
-Alza's phone after this repo is pushed, and the file is updated with the real
-post address before the entry is submitted.
+`POST.json` names the live post: https://x.com/fasani94/status/2125189804975673646
+(posted by Alza from his phone on 24 Nov 2026).
 
 ## License
 
